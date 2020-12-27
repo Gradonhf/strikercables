@@ -2,11 +2,8 @@
 
 This is a demo project to get you started with a static ecommerce site powered by [Gatsby](https://www.gatsbyjs.org/), [Snipcart](https://snipcart.com/) and [DatoCMS](https://www.datocms.com/).
 
-It's a brutalist socks ecommerce site, that looks like this:
+It's a brutalist socks ecommerce site
 
-![Socks ecommerce screenshot](./preview.png)
-
-You can see how it looks live on this [demo installation](https://datocms-snipcart-gatsby-demo.netlify.com/).
 
 All the details on how this works on the [related blog post](https://www.datocms.com/blog/static-ecommerce-website-snipcart-gatsbyjs-datocms).
 
